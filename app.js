@@ -103,3 +103,5 @@ menuButton.addEventListener("click", () => {
         document.body.ariaExpanded = "true"
     }
 })
+
+alert("test");
