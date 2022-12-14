@@ -1,0 +1,42 @@
+[
+    {
+        "title" : "Visibility of System Status",
+        "text" : "Designs should keep users informed about what is going on, through appropriate, timely feedback."
+    },
+    {
+        "title" : "Match between System and the Real World",
+        "text" : "The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon."
+    },
+    {
+        "title" : "User Control and Freedom",
+        "text" : "Users often perform actions by mistake. They need a clearly marked \"emergency exit\" to leave the unwanted state."
+    },
+    {
+        "title" : "Consistency and Standards",
+        "text" : "Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform conventions."
+    },
+    {
+        "title" : "Error Prevention",
+        "text" : "Good error messages are important, but the best designs prevent problems from occurring in the first place."
+    },
+    {
+        "title" : "Recognition Rather Than Recall",
+        "text" : "Minimize the user's memory load by making elements, actions, and options visible. Avoid making users remember information."
+    },
+    {
+        "title" : "Flexibility and Efficiency of Use",
+        "text" : "Shortcuts — hidden from novice users — may speed up the interaction for the expert user."
+    },
+    {
+        "title" : "Aesthetic and Minimalist Design",
+        "text" : "Interfaces should not contain information which is irrelevant. Every extra unit of information in an interface competes with the relevant units of information."
+    },
+    {
+        "title" : "Recognize, Diagnose, and Recover from Errors",
+        "text" : "Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution."
+    },
+    {
+        "title" : "Help and Documentation",
+        "text" : "It's best if the design doesn't need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks."
+    }
+]
