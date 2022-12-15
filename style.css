@@ -172,6 +172,10 @@ body {
     transition: color 100ms linear;
 }
 
+.menu-button:hover > span {
+    color: var(--highlight-color);
+}
+
 .menu-button:active > span {
     color: var(--accent-color);
 }
