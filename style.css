@@ -169,6 +169,11 @@ body {
 .menu-button > span {
     font-size: 4rem;
     color: var(--primary-color);
+    transition: color 100ms linear;
+}
+
+.menu-button:active > span {
+    color: var(--accent-color);
 }
 
 @media only screen and (max-width: 1250px) {
